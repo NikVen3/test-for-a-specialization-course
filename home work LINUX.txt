@@ -1,0 +1,37 @@
+     sudo apt update
+
+     cat > Pets.txt
+
+     cat > PackAnimals.txt
+
+     history
+
+     cat Pets.txt PackAnimals.txt > HumanFriends.txt
+
+     cat HumanFriends.txt
+
+     mv HumanFriends.txt HumanFriends
+
+     mkdir NewDirectory
+
+     mv HumanFriends NewDirectory/
+
+     sudo add-apt-repository 'deb http://repo.mysql.com/apt/ubuntu/ bionic mysql-8.0'
+
+     sudo apt update
+
+     sudo apt install mysql-server
+
+     sudo dpkg -i nginx
+
+     sudo dpkg -i vivaldi-stable_3.8.2259.42-1_amd64.deb
+
+     sudo dpkg -r nginx
+
+     sudo dpkg -r vivaldi-stable_3.8.2259.42-1_amd64.deb
+
+     history
+
+   Венчук Николай Николаевич.
+
+   ГРУППА 4832 
